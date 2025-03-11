@@ -2,11 +2,11 @@
 
 ## About Me
 
-I am deeply passionate about the transformative power of technology and excited about the possibilities of a more decentralized, transparent, and efficient future. With a Mechanical and Software Engineering background, I now focus on developing innovative applications.
+I am passionate about the transformative power of technology and excited about a future that is more decentralized, transparent, and efficient. With a background in Mechanical and Software Engineering, I now focus on developing innovative applications. My experience spans both Web2 and Web3: in Web2, I’ve worked on complex ATM networks and developed an OTC trading platform at Noxpay; in Web3, I contributed to the NoxFi project by integrating Next.js with smart contracts and utilizing The Graph for Uniswap V3 data, and built an NFT platform on Polygon using LazyMinting before industry standards emerged.
 
-My experience spans both Web2 and Web3. In Web2, I’ve worked on large-scale ATM networks and developed an OTC trading platform at Noxpay. In Web3, I contributed to the NoxFi project by integrating Next.js with smart contracts and utilizing The Graph for data from Uniswap V3. Additionally, I developed an NFT platform on Polygon using LazyMinting before industry standards were established. I’ve also contributed to smaller projects, which allowed me to take on diverse roles and refine my skills across the development process.
+My journey took me to Thailand, where I served as a Fellow at Invisible Garden in Chiang Mai—coordinating social events, participating in hackathons and workshops—and engaged with the Ethereum ecosystem at Devcon and ETH Global in Bangkok.
 
-Beyond technical work, I have significant entrepreneurial experience, managing over 70 clients simultaneously. My event management background has refined my interpersonal skills, while my Yoga practice has strengthened my intrapersonal abilities. Recent readings, including *The Infinite Machine* and Vitalik Buterin’s article on Soulbound Tokens, have deepened my understanding of social tokens and their revolutionary potential.
+Recently, I have also ventured into automation and AI, experimenting with agent frameworks like elizaOS and workflow automation with n8n. Beyond technical work, I have significant entrepreneurial experience managing over 70 clients simultaneously, and my background in event management and Yoga has honed both my interpersonal and intrapersonal skills. Recent readings, such as The Infinite Machine and Vitalik Buterin’s article on Soulbound Tokens, have deepened my understanding of social tokens and their revolutionary potential.
 
 ## Technologies & Tags
 
