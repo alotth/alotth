@@ -34,6 +34,7 @@ Recently, I have also ventured into automation and AI, experimenting with agent 
   - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) MongoDB
   - ![Postgres](https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white) Postgres
   - ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) Redis
+  - ![Supabase](https://img.shields.io/badge/Supabase-3490DC?style=for-the-badge&logo=supabase&logoColor=white) Supabase
 
 - **DevOps:**
   - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) Docker
@@ -48,6 +49,8 @@ Recently, I have also ventured into automation and AI, experimenting with agent 
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) Python
   - ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) C++
   - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) Java
+  - ![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white) n8n
+  - ![elizaOS](https://img.shields.io/badge/elizaOS-000000?style=for-the-badge&logo=elizaOS&logoColor=white) elizaOS
 
 ## Contact
 
